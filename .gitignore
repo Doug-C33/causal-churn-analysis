@@ -1,0 +1,6 @@
+.env
+test_gemini_key.py
+.venv/
+__pycache__/
+*.pyc
+*.pyo
